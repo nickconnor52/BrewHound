@@ -1,4 +1,4 @@
-# [Brew Hound](brew-hound.herokuapp.com) 
+# [Brew Hound](www.brew-hound.herokuapp.com) 
 
 ## Description
 
